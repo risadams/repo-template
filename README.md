@@ -80,9 +80,9 @@ Go through this checklist after creating your repository. It should only take a 
 
 ## Contribute
 
-If you think this could be better, please [open an issue](https://github.com/orbitdb/repo-template/issues/new)!
+If you think this could be better, please [open an issue](https://github.com/risadams/repo-template/issues/new)!
 
-Please note that all interactions in [@OrbitDB](https://github.com/orbitdb) fall under our [Code of Conduct](CODE_OF_CONDUCT.md).
+Please note that all interactions in [@DireHope](https://github.com/dire-hope) fall under our [Code of Conduct](CODE_OF_CONDUCT.md).
 
 ## License
 
