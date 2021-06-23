@@ -1,10 +1,6 @@
 # Repo Template
 
-[![Gitter](https://img.shields.io/gitter/room/nwjs/nw.js.svg)](https://gitter.im/Dire-Hope/community)
-
-> A template for creating new repositories in the @direhope organization
-
-This repository is meant to serve as a general template for how to set up new repositories in the @Dire-Hope organization. In general, setting up a new repository should take only a few minutes; use this repository as a way of finding example files, and use the following checklist to ensure that you've set up the repository correctly.
+This repository is meant to serve as a general template for how to set up new repositories in the. In general, setting up a new repository should take only a few minutes; use this repository as a way of finding example files, and use the following checklist to ensure that you've set up the repository correctly.
 
 ## Install
 
@@ -49,7 +45,7 @@ Go through this checklist after creating your repository. It should only take a 
 
 - [ ] Have you added a short description to the repository?
   - [ ] Is the description matched in the byline under the title in the README?
-- [ ] Have you added topics to the GitHub repository: `direhope`, and so on?
+- [ ] Have you added topics to the GitHub repository?
   - [ ] Have you added these topics as keywords in the `package.json`?
 
 ### `package.json`
@@ -82,8 +78,8 @@ Go through this checklist after creating your repository. It should only take a 
 
 If you think this could be better, please [open an issue](https://github.com/risadams/<Replace Title>/issues/new)!
 
-Please note that all interactions in [@DireHope](https://github.com/dire-hope) fall under our [Code of Conduct](CODE_OF_CONDUCT.md).
+Please note that all interactions in this organization fall under our [Code of Conduct](CODE_OF_CONDUCT.md).
 
 ## License
 
-[MIT](LICENSE) © 1996+ Ris Adams, 2020+ Dire Hope Foundation, LLC
+[MIT](LICENSE) © 1996+ Ris Adams
